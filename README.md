@@ -1,2 +1,2 @@
 # Password-generator
-With is script you cat create a password
+With this script you cat create a password
