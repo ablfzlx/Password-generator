@@ -1,2 +1,2 @@
 # Password-generator
-Password generator script
+#Password generator script
